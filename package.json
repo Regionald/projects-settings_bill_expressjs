@@ -1,0 +1,26 @@
+{
+  "name": "settings_bill_expressjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "settings-bill.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Regionald/projects-settings_bill_expressjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Regionald/projects-settings_bill_expressjs/issues"
+  },
+  "homepage": "https://github.com/Regionald/projects-settings_bill_expressjs#readme",
+  "devDependencies": {
+    "mocha": "^9.1.1"
+  }
+}
